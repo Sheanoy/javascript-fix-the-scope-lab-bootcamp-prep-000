@@ -11,8 +11,8 @@ function yourAnimal() {
   return animal
 }
 
- 
-}
+ }
+
 
 
   // How can we make sure that this function

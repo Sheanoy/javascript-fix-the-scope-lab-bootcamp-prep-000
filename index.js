@@ -32,4 +32,3 @@ return "FUNKY!"
 
 var theFunk = funkyFunction
 var theFunk = "FUNKY!"
-

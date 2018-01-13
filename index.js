@@ -36,9 +36,8 @@ return n + two
   // Feel free to move things around!
 
 }
-
 var funkyFunction = function() {
-  return function() 
+return function() 
   return "FUNKY!"
   }
 
